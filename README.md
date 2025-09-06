@@ -5,7 +5,7 @@ A DDOS script with many options, such as TCP/UDP IP checking, with some adjustme
 Screenshots
 ----
 
-![Screenshot](https://github.com/Xvenn-03/StreamFlow/blob/main/Screenshot_NPNDOS.jpg)
+![Screenshot](https://github.com/Xvenn-03/NPNDOS/blob/main/Screenshot_NPNDOS.jpg)
 Installation
 ----
 
