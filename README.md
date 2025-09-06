@@ -30,6 +30,6 @@ To get a list of basic options and switches use:
 
 a little story about the name of this script:
 
-The name of this script is from the woman's real name which I disguised, I know her, she's good even though I've never met her in person, at one point I thought we were together, it turned out I was just her escape, after a while I found out that she already had a new man, I'm not sad, just a little disappointed, if you see her I apologize for not being able to accompany you anymore, my heart always hurts when I see you with your new man 
+The name of this script is from the woman's real name which I disguised, I know her, she's good even though I've never met her in person, at one point I thought we were together, it turned out I was just her escape, after a while I found out that she already had a new man, I'm not sad, just a little disappointed, if you see this I apologize for not being able to accompany you anymore, my heart always hurts when I see you with your new man 
 
 see you again in another life☺️
